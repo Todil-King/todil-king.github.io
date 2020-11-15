@@ -44,7 +44,7 @@
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
 .icon-up:before { content: '\f176'; } /* '' */
-.icon-git:before { content: '\f176'; } /* '' */
+
 /* CUSTOM RESETS
 ================================================== */
 a {
@@ -171,7 +171,7 @@ html, body {
 }
 
 .site-logo img {
-    padding-bottom: 1px;
+    padding-bottom: 2px;
 }
 
 /* Navigation */
