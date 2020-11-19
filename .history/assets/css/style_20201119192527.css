@@ -172,9 +172,10 @@ html, body {
 
 .site-logo img {
     
-    padding-bottom: 2px;
-    width: 150px;
-    height: 150px;		
+    border: 1px solid #ddd;	/* thickness and color of border */
+    border-radius: 2px;		/* edge rounding of border */
+    width: 75px;				/* width of image (px or % or auto) */
+    height: auto;	
 }
 
 /* Navigation */
