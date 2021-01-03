@@ -1,8 +1,8 @@
 /*
- * Theme Name: 
+ * Theme Name: Profile
  * Theme URI: 
- * Author: Milan Savov
- * Author URI/Mail: milan.savov@gmail.com
+ * Author: Todil Barcham
+ * Author URI/Mail: todilodisho14@gmail.com
  * Version: 1.0
  * */
 
@@ -44,7 +44,7 @@
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
 .icon-up:before { content: '\f176'; } /* '' */
-.icon-git:before { content: '\f176'; } /* '' */
+
 /* CUSTOM RESETS
 ================================================== */
 a {
@@ -171,7 +171,10 @@ html, body {
 }
 
 .site-logo img {
-    padding-bottom: 1px;
+    
+    padding-bottom: 2px;
+    width: 150px;
+    height: 150px;		
 }
 
 /* Navigation */
@@ -568,7 +571,7 @@ a.facebook-bg:hover{color: #3b5998;}
 a.gplus-bg:hover{color: #007bb5;} 
 a.linkedin-bg:hover {color: #dd4b39;}
 a.icon-up-bg:hover {color: #212121;}
-
+a.icon-github:hover {color: #212121}
 .copyright {
     margin-bottom: 0;
     line-height: 40px;
